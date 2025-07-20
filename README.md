@@ -1,6 +1,6 @@
 # cypress-ts-automation-exercise
 
-- Automation project using Cypress in TypeScript, using Page Object Model (POM) to follow best practices in test automation
+- Automation project using Cypress in TypeScript, and Page Object Model (POM) to follow best practices in test automation
 
 - Run tests in headed mode and choose a browser
 
