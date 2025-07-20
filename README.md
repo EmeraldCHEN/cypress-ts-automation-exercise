@@ -13,6 +13,7 @@ pnpm exec cypress open
 pnpm exec cypress run
 ```
 
-- Reference
+- Reference: [Cypress Docs](https://docs.cypress.io/app/get-started/why-cypress)
 
-  - [Cypress Docs](https://docs.cypress.io/app/get-started/why-cypress)
+ 
+_ *To be continued — ran out of time for now. Thanks for reading! _*  👋
